@@ -1,9 +1,9 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Naeem!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Naeem+AL+Imran!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 
 - <b>I am a Competitive Programmer.
-- I have been programming for five years.
+- Have been programming for five years.
 - Tech enthusiast.
 - Deep love for data structures and algorithms.
 - Looking for Software Engineer role. 
@@ -22,13 +22,13 @@
   <li> 🎓 <b> Almost (2500+ and counting) problems solved on several online platform. </b>
 </ul>
 
-## ⚙️ Technologies & Tools
+## Technologies & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 
-## ⚙️ Languages & Frameworks
+## Languages & Frameworks
 Languages & frameworks have been sorted as ...  most proficient on the left and less proficient on the right <br>
 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
@@ -48,7 +48,7 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
 - Computer Systems
 - Sports and Travelling.
 
-## My Resume & Connect with me
+## Connect with me
 <p align="left">
     <a href="https://www.linkedin.com/in/naeem4265/" target="blank"><img align="center" src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://www.facebook.com/naeem4265" target="blank"><img align="center" src="Assets/facebook.svg" alt="Facebook" height="30" width="40" /></a>
@@ -57,3 +57,5 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
     <a href="https://codeforces.com/profile/naeem4265" target="blank"><img align="center" src="Assets/codeforces.png" alt="Codeforces" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/naeem4265" target="blank"><img align="center" src="Assets/codechef.jpg" alt="Codechef" height="30" width="40" /></a>
 </p>
+
+## [My Resume](https://github.com/naeem4265/naeem4265/blob/master/Resume_Naeem.pdf)
