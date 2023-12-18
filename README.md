@@ -58,4 +58,4 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
     <a href="https://www.codechef.com/users/naeem4265" target="blank"><img align="center" src="Assets/codechef.jpg" alt="Codechef" height="30" width="40" /></a>
 </p>
 
-## [My Resume](https://github.com/naeem4265/naeem4265/blob/master/Resume_Naeem.pdf)
+## [My Resume](https://github.com/naeem4265/naeem4265/blob/master/Naeem_Resume.pdf)
