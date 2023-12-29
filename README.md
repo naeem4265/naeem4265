@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Naeem+AL+Imran!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hi+there%2C+I'm+Naeem+AL+Imran!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 
 - <b>I am a Competitive Programmer.
