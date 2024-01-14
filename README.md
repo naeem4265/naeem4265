@@ -29,14 +29,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 
 ## Languages & Frameworks
-Languages & frameworks have been sorted as ...  most proficient on the left and less proficient on the right <br>
+Languages & frameworks have been sorted as, most proficient on the left and less proficient on the right <br>
 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 
+## Achievement & Certification [GitHub Link]()
 
 ## Field of Interests
 - Software Engineering
@@ -58,4 +59,4 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
     <a href="https://www.codechef.com/users/naeem4265" target="blank"><img align="center" src="Assets/codechef.jpg" alt="Codechef" height="30" width="40" /></a>
 </p>
 
-## [My Resume](https://github.com/naeem4265/naeem4265/blob/master/Naeem_Resume.pdf)
+## [My Resume](https://github.com/naeem4265/naeem4265/blob/master/Resume_Naeem.pdf)
